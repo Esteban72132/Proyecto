@@ -1,1 +1,1 @@
-# Proyecto
+Proyecto de Tienda de Tecnologia
